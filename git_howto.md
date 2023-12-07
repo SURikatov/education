@@ -44,3 +44,7 @@ git config --global user.name "Ваше Имя"
 ```sh
 git status
 ```
+### - Проверить текущую директорию в терминале
+```sh
+dir
+```
