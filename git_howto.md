@@ -34,3 +34,4 @@ git checkout <уникальный номер commit>
 ```sh
 git config --global user.email "Ваш Email"
 ```
+>*используйте "--local", чтобы отобразить эти данные только в этой работе
