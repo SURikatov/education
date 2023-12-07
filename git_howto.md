@@ -30,3 +30,7 @@ git log --oneline
 ```sh
 git checkout <уникальный номер commit>
 ```
+### - Указать свой E-mail
+```sh
+git config --global user.email "Ваш Email"
+```
