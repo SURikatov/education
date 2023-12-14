@@ -82,3 +82,7 @@ git clone [url-адрес]
 ```sh
 git diff
 ```
+### Чтобы удалить ветку
+```sh
+git branch -d <имя ветки>
+```
