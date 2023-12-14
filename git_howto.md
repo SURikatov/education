@@ -86,3 +86,7 @@ git diff
 ```sh
 git branch -d <имя ветки>
 ```
+### Чтобы загрузить репозиторий на GitHub
+```sh
+git push
+```
